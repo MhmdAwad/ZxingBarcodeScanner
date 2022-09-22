@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZxingBarcodeScanner</string>
+    <string name="launch_the_scanner">Launch the scanner</string>
+</resources>
